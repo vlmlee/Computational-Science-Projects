@@ -1,0 +1,14 @@
+*.gif
+*.jpg
+*.jpeg
+*.DS_store
+*.pyc
+*.png
+*.aux
+*.tex
+*.out
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.bmp
+

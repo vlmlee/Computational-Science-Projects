@@ -36,11 +36,9 @@ for n in range(100, 100000, 100):
 		# searching for the coordinates as well
 
 		if (pix[x,y] == 1 and pix[X,Y] == 1):
-			if ((x,y) or (X,Y)) not in coordinates:
+			if ((x,y) and (X,Y)) not in coordinates:
 				coordinates.append((x,y))
 				coordinates.append((X,Y))
-
-		if (pix[x,y] == 0 and pix[X,Y] == 0):
 			water += 1
 			count += 1
 		else:
@@ -76,7 +74,7 @@ plt.ylabel('Time (seconds)')
 plt.subplots_adjust(hspace=.5)
 
 plt.subplot(313)
-plt.title('Coordinates for Land-Land Antipodes')
+plt.title('Coordinates for land-land Antipodes')
 plt.scatter(x_scatter, map(lambda x: x*-1, y_scatter))
 plt.xlabel('X')
 plt.ylabel('Y')

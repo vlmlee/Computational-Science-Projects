@@ -1,6 +1,4 @@
 from PIL import Image
-import os, sys
-import pprint
 import time
 import multiprocessing
 

@@ -1,0 +1,202 @@
+@started(15-06-23 06:03)
+
+ ☐ I've been going about this very inefficiently. I read, study, and watch material only when I feel like doing it, rather than systematically reading each chapter, doing the exercises, and practicing programming. In order to achieve the things I want to achieve, I must become more organized.
+
+ ☐ What is the first step? Better note taking. I must write my notes clearer, with indentation, and with grouping. 
+
+ ☐ The second step is to identify the chapters and lectures I have to watch today in order to progress through a book or series.
+
+ ☐ Next is doing problems that are in the books themselves. Not all of them, just the ones that really matter.
+
+ ☐ So, which books? Which problems? Which lectures?
+
+Courses:
+  
+ ☐ The C Programming Language
+    ✔ Chapter 1: Introduction @done (15-06-23 06:10)
+      ✔ Problems @done (15-06-24 03:59)
+    ✔ Chapter 2: Types, Operators, and Expressions @done (15-06-23 06:10)
+      ☐ Problems
+    ✔ Chapter 3: Control Flow @done (15-06-23 06:13)
+      ☐ Problems
+    ✔ Chapter 4: Functions and Program Structure @done (15-06-24 23:27)
+      ☐ Problems
+    ☐ Chapter 5: Pointers and Arrays
+      ☐ Problems
+    ☐ Chapter 6: Structures
+      ☐ Problems
+    ☐ Chapter 7: Input and Output
+      ☐ Problems
+    ☐ Chapter 8: The UNIX File System
+      ☐ Problems
+    ☐ Appendix A
+    ☐ Appendix B
+    
+ ☐ Introduction to the Theory of Computation
+    ✔ Chapter 0: Introduction @done (15-06-23 06:19)
+      ☐ Problems
+    ☐ Part 1: Automata and Languages
+      ☐ Chapter 1: Regular Languages
+        ☐ Problems
+      ☐ Chapter 2: Context-Free Languages
+        ☐ Problems
+    ☐ Part 2: Computability Theory
+      ☐ Chapter 3: The Church-Turing Thesis
+        ☐ Problems
+      ☐ Chapter 4: Decidability
+        ☐ Problems:
+      ☐ Chapter 5: Reducibility
+        ☐ Problems:
+      ☐ Chapter 6: Advanced Topics in Computability Theory
+        ☐ Problems:
+    ☐ Part 3: Complexity Theory
+      ☐ Chapter 7: Time Complexity
+        ☐ Problems:
+      ☐ Chapter 8: Space Complexity
+        ☐ Problems:
+      ☐ Chapter 9: Intractability
+        ☐ Problems
+      ☐ Chapter 10: Advanced Topics in Complexity Theory
+        ☐ Problems
+ 
+ ☐ Basics of Statistics
+    ✔ Chapter 1: The Nature of Statistics @done (15-06-25 22:03)
+    ✔ Chapter 2: Variables and Organization of the Data @done (15-06-27 08:28)
+    ✔ Chapter 3: Describing Data By Tables and Graphs @done (15-06-27 08:28)
+    ✔ Chapter 4: Measures of Center @done (15-06-27 09:39)
+    ✔ Chapter 5: Measures of Variation @done (15-06-28 10:09)
+    ✔ Chapter 6: Probability Distribution @done (15-06-29 07:03)
+    ✔ Chapter 7: Sampling Distribution @done (15-06-29 09:32)
+    ☐ Chapter 8: Estimation
+    ☐ Chapter 9: Hypothesis Testing
+    ☐ Chapter 10: Summarization of Bivariate Data
+    ☐ Chapter 11: Scatter Plot and Correlation Coefficient
+
+ ☐ Data Structures and Algorithms
+    ✔ Lecture 1 @done (15-06-23 06:46)
+    ✔ Lecture 2 @done (15-06-25 06:24)
+    ✔ Lecture 3 @done (15-06-25 07:22)
+    ✔ Lecture 4 @done (15-06-25 08:26)
+    ✔ Lecture 5 @done (15-06-25 19:42)
+    ☐ Lecture 6
+    ☐ Lecture 7
+    ☐ Lecture 8
+    ☐ Lecture 9
+    ☐ Lecture 10
+    ☐ Lecture 11
+    ☐ Lecture 12
+    ☐ Lecture 13
+    ☐ Lecture 14
+    ☐ Lecture 15
+    ☐ Lecture 16
+    ☐ Lecture 17
+    ☐ Lecture 18
+    ☐ Lecture 19
+    ☐ Lecture 20
+    ☐ Lecture 21
+    ☐ Lecture 22
+    ☐ Lecture 23
+    ☐ Lecture 24
+    ☐ Lecture 25
+    ☐ Lecture 26
+    ☐ Lecture 27
+    ☐ Lecture 28
+    ☐ Lecture 29
+    ☐ Lecture 30
+    ☐ Lecture 31
+    ☐ Lecture 32
+    ☐ Lecture 33
+    ☐ Lecture 34
+    ☐ Lecture 35
+    ☐ Lecture 36
+    ☐ Lecture 37
+    ☐ Lecture 38
+    ☐ Lecture 39
+
+ ☐ Introduction to Algorithms
+    ✔ Lecture 1 @done (15-06-24 04:00)
+      ☐ Chapter 1
+    ✔ Lecture 2 @done (15-06-24 04:00)
+      ☐ Chapter 2
+    ☐ Lecture 3
+      ☐ Chapter 3
+    ☐ Lecture 4
+      ☐ Chapter 4
+      ☐ Problem Set 1
+    ☐ Lecture 5
+      ☐ Chapter 6
+    ☐ Lecture 6
+      ☐ Chapter 7
+    ☐ Lecture 7
+      ☐ Chapter 9
+      ☐ Problem Set 2
+    ☐ Lecture 8
+      ☐ Chapter 11
+    ☐ Lecture 9
+    ☐ Lecture 10
+    ☐ Lecture 11
+      ☐ Problem Set 3
+    ☐ Lecture 12
+    ☐ Lecture 13
+    ☐ Lecture 14
+      ☐ Problem Set 4
+    ☐ Lecture 15
+    ☐ Lecture 16
+    ☐ Lecture 17
+    ☐ Lecture 18
+      ☐ Problem Set 5
+    ☐ Lecture 19
+      ☐ Problem Set 6
+    ☐ Lecture 20
+    ☐ Lecture 21
+      ☐ Problem Set 8
+    ☐ Lecture 22
+    ☐ Lecture 23
+    ☐ Lecture 24
+    ☐ Lecture 25
+      ☐ Problem Set 9
+
+ ✔ SQL Teaching @done (15-06-27 04:42)
+    ✔ Complete all tasks @done (15-06-27 04:42)
+
+ ✔ SQLBolt @done (15-06-28 07:04)
+
+ ☐ Stanford iOS
+    ✔ Lecture 1 @done (15-06-25 06:44)
+    ✔ Lecture 2 @done (15-06-25 06:44)
+    ✔ Lecture 3 @done (15-06-25 06:44)
+    ✔ Lecture 4 @done (15-06-25 06:44)
+    ✔ Lecture 5 @done (15-06-25 06:44)
+    ✔ Lecture 6 @done (15-06-25 06:44)
+    ✔ Lecture 7 @done (15-06-25 06:44)
+    ☐ Lecture 8
+    ☐ Lecture 9
+    ☐ Lecture 10
+    ☐ Lecture 11
+    ☐ Lecture 12
+    ☐ Lecture 13
+    ☐ Lecture 14
+    ☐ Lecture 15
+    ☐ Lecture 16
+    ☐ Lecture 17
+
+ ☐ Machine Learning Coursera
+    ☐ Introduction
+    ☐ Linear Regression
+    ☐ Linear Algebra Review
+    ☐ Linear Regression with Multiple Variables
+    ☐ Octave Tutorial
+    ☐ Logistic Regression
+    ☐ Regularization
+    ☐ Neural Networks: Representation
+    ☐ Neural Networks: Learning
+    ☐ Advice for Applying Machine Learning
+    ☐ Machine Learning System Design
+    ☐ Support Vector Machines
+    ☐ Clustering
+    ☐ Dimensionality Reduction
+    ☐ Anomaly Detection
+    ☐ Recommender Systems
+    ☐ Large Scale Machine Learning
+    ☐ Application Example: Photo OCR
+    ☐ Conclusion

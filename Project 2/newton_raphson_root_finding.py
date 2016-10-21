@@ -9,7 +9,7 @@ import numpy as np
 
 def f(x):
 	# Our test function
-	return 2*np.cos(x) - x
+	return x*x - x
 
 def newton(x, dx, imax, eps):
 	for i in range(0, imax + 1):
